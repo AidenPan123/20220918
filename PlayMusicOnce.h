@@ -1,0 +1,1 @@
+void PlayMusicOnce(char *fileName);
