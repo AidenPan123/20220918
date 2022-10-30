@@ -1,1 +1,2 @@
-void PlayMusicOnce(char *fileName);
+
+void PlayMusicOnce(char *fileName);//º¯Êýshengming
